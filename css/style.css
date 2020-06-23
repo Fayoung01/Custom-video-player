@@ -67,8 +67,7 @@ h1 {
     outline: 0;
 }
 
-
-/* For small screens, increase width */
+/* For small screens, increase width - Responsiveness */
 @media(max-width: 800px) {
 
     .screen,
